@@ -1,0 +1,25 @@
+.mediaList {
+  display: grid;
+  gap: 55px;
+  grid-template-columns: repeat(4, 1fr);
+  margin-bottom: 80px;
+  place-items: center;
+}
+
+@media (max-width: 1200px) {
+  .mediaList {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 992px) {
+  .mediaList {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .mediaList {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

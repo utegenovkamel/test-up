@@ -1,0 +1,21 @@
+.mediaContainer {
+  max-width: 245px;
+  cursor: pointer;
+}
+
+.mediaImage {
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.imagePlaceholder {
+  width: 100%;
+  height: 270px;
+  border: 1px solid var(--primary-color);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}

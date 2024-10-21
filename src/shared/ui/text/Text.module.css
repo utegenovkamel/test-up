@@ -1,0 +1,23 @@
+.text {
+  color: var(--secondary-color);
+}
+
+.sm {
+  font-size: 14px;
+}
+
+.md {
+  font-size: 16px;
+}
+
+.lg {
+  font-size: 22px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.inline {
+  display: inline;
+}

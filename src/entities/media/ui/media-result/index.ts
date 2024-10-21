@@ -1,0 +1,1 @@
+export { MediaResult } from "./MediaResult";

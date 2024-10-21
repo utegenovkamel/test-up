@@ -1,0 +1,1 @@
+export { useGetMedia } from "./useGetMedia";
