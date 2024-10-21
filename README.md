@@ -1,4 +1,4 @@
-# Uppercase Test Project
+# Test Project
 
 This is a test assignment demonstrating skills in React, TypeScript, Vite, and TanStack Router.
 
