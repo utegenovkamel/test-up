@@ -32,7 +32,7 @@ export function Header() {
           )}
           <Flex alignItems="center" gap={10}>
             <Icon variant="User" size={25} color="primary" />
-            <Text>Your Name</Text>
+            <Text>TG: @utegeno_k</Text>
           </Flex>
         </Flex>
         {isMobile && (
